@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,500&display=swap");
+
+.wrapper {
+  background-color: #123456;
+  height: 100vh;
+}
+
+.box {
+  background-color: #e66c2c;
+  position: relative;
+}
